@@ -6,7 +6,7 @@ header, section {
     contain: content;
 }
 
-.scores, .timer {
+.scores, .timer, .home {
     display: inline-block;
     font-size: 20px;
 }
