@@ -1,21 +1,34 @@
 # code-quiz
 
+## Description
+
+
 ## Installation
 
-To access the webpage follow the url: https://aegeangrey.github.io/prework-study-guide/
+No installation is required! To access the webpage follow the url: https://aegeangrey.github.io/prework-study-guide/
 
-To pull the environment onto your side you can do the following:
+## Credits
+Starter Code was provided by the University of Utah and Modified/Enhanced by AegeanGrey/Todd D.
 
-1.) Copy the SSH or HTTPS Key for the Repository by selecting the green "Code" button
+## License
+MIT License
 
-2.) go to Git or GitBash to clone the repo by entering the following into the command terminal:
+Copyright (c) 2023 Todd D.
 
-git clone git@github.com:profile-name/repo-name.git
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-or in this case for this particular repo:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-git@github.com:AegeanGrey/code-quiz.git
-
-3.) navigate to the file path and type the following to open the code:
-
-code .
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
