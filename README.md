@@ -5,7 +5,7 @@
 
 ## Installation
 
-No installation is required! To access the webpage follow the url: https://aegeangrey.github.io/prework-study-guide/
+No installation is required! To access the webpage follow the url: https://aegeangrey.github.io/code-quiz/
 
 ## Credits
 Starter Code was provided by the University of Utah and Modified/Enhanced by AegeanGrey/Todd D.
