@@ -16,6 +16,10 @@ header div a {
     color: black;
 }
 
+a:hover {
+    font-weight: bolder;
+}
+
 #left {
     float: left;
 }
@@ -37,10 +41,24 @@ p {
 }
 
 h2 {
+    text-align: center;
     font-size: 200%;
 }
 
 button {
     padding: 15px 32px;
     font-size: 18px;
+}
+
+nav {
+    padding: 1%;
+}
+
+ol {
+    display: grid;
+}
+
+li {
+    font-size: 20px;
+    padding: 1%;
 }
